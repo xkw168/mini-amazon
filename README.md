@@ -10,27 +10,27 @@ author: Kewei Xia, Yue Yang
 
 ### Home Page
 
-![fa](file:///Users/xkw/Desktop/mini-amazon/img/home.png?lastModify=1592769085)
+![fa](./img/home.png?lastModify=1592769085)
 
 ### Order Detail Page
 
-![img](file:///Users/xkw/Desktop/mini-amazon/img/detail.png?lastModify=1592769085)
+![img](./img/detail.png?lastModify=1592769085)
 
 ### Shopcart
 
-![img](file:///Users/xkw/Desktop/mini-amazon/img/shopcart.png?lastModify=1592769085)
+![img](./img/shopcart.png?lastModify=1592769085)
 
 ### Profile
 
-![img](file:///Users/xkw/Desktop/mini-amazon/img/profile.png?lastModify=1592769085)
+![img](./img/profile.png?lastModify=1592769085)
 
 ### Checkout
 
-![img](file:///Users/xkw/Desktop/mini-amazon/img/checkout.png?lastModify=1592769085)
+![img](./img/checkout.png?lastModify=1592769085)
 
 ### History Order
 
-![img](file:///Users/xkw/Desktop/mini-amazon/img/order.png?lastModify=1592769085)
+![img](./img/order.png?lastModify=1592769085)
 
 ## Feature checklist(requirement)
 
