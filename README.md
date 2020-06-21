@@ -4,7 +4,16 @@ Fancy Amazon!
 
 author: Kewei Xia, Yue Yang
 
-[toc]
+- [erss-hwk5-kx30-yy58](#erss-hwk5-kx30-yy58)
+  * [Outcome](#outcome)
+    + [Home Page](#home-page)
+    + [Order Detail Page](#order-detail-page)
+    + [Shopcart](#shopcart)
+    + [Profile](#profile)
+    + [Checkout](#checkout)
+    + [History Order](#history-order)
+  * [Feature checklist](#feature-checklist)
+  * [Extra features we have](#extra-features-we-have)
 
 ## Outcome
 
@@ -32,7 +41,7 @@ author: Kewei Xia, Yue Yang
 
 ![img](./img/order.png?lastModify=1592769085)
 
-## Feature checklist(requirement)
+## Feature checklist
 
 - [x] Buy products(communicate with both the world and UPS).
 - [x] Different catalog of products.
