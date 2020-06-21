@@ -15,6 +15,21 @@ author: Kewei Xia, Yue Yang
   * [Feature checklist](#feature-checklist)
   * [Extra features we have](#extra-features-we-have)
 
+## What's this?
+This a mini-Amazon implemented via Django.
+
+## How to Run?
+```shell
+sudo docker-compose up
+```
+This will automatically run the front-end web interface, the backend daemon thread and the wordl simulator.
+
+If you only want to run the front-end web interface, you need to 
+1. have postgres database install on your environment
+2. change the database configuration in `web-app/ERSSHW5/settings.py`
+3. (create a python virtual environment and) install all dependancy by `pip install -r requirements`
+4. run `python manage.py runserver 0:8000`
+
 ## Outcome
 
 ### Home Page
